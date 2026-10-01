@@ -1,0 +1,6 @@
+{
+  "name": "NES ROM & Header Studio",
+  "description": "Interactive pixel art editor, CHR-ROM generator, and byte-level iNES & NES 2.0 ROM header architect with live NES PPU preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
